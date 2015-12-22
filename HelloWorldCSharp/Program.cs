@@ -10,6 +10,7 @@ namespace HelloWorldCSharp
     {
         static void Main(string[] args)
         {
+            // This is just a comment
             Console.WriteLine("Hello World C#");
             Console.ReadLine();
         }
